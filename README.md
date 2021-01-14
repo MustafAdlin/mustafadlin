@@ -1,7 +1,5 @@
 ### Hi there, I'm Mustafa Adlin 👋
 
-[![Discord](https://img.shields.io/discord/746155721392914442?color=%237289da&label=MY%20DISCORD&logo=Discord&style=for-the-badge)](discord.com/users/415891576162615296)
-
 
 ## I'm a Student, Developer, and Gamer
 
