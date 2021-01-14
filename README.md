@@ -1,7 +1,7 @@
-### Hi there, I'm Mustafa Adlin 👋
+## Hi there, I'm Mustafa Adlin 👋
 
 
-## I'm a Student, Developer, and Gamer
+### I'm a Student, Developer, and Gamer
 
 - 🤝 I'm currently focused on webpage development and livery design for Flight Simulator
 - 💡 I’m currently learning JS
