@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://mustafadlin.vercel.app/api/spotify)](https://open.spotify.com/user/11160821421?si=EQQF6D6mTumik5Dut7DH4g)
+[![Spotify](https://novatorem.mustafadlin.vercel.app/api/spotify.py)](https://open.spotify.com/user/11160821421?si=EQQF6D6mTumik5Dut7DH4g)
 
 ### Connect with me:
 
