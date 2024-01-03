@@ -3,10 +3,10 @@
 
 ### I'm a Student, Developer, and Gamer
 
-- 🤝 I'm currently focused on webpage development and livery design for Flight Simulator
-- 💡 I’m currently learning JS
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ I like playing basketball, playing pc games and listening to music
+- 🤝 I'm currently focused on frontend development and build scripts for Flight Simulator
+- 💡 I’m currently improving JS skill
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- ⚡ keen on Technology, Aerospace, Airplanes/Fighter jets/UAV, MilitaryTech, DefenceTech
 
 ### Spotify Playing 🎧
 
